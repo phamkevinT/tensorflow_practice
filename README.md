@@ -1,5 +1,5 @@
 # tensorflow_practice
-Learning TensorFlow through the 'TensorFlow Developer Certificate in 2023: Zero to Mastery' course
+Learning TensorFlow through the '[TensorFlow Developer Certificate in 2023: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)' course
 
 Topics Covered:
 * 0 — TensorFlow Fundamentals
